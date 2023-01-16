@@ -1,6 +1,6 @@
 # svg-gauge 
 
-This project is demo of svg-gauge npm package. [Create React App](https://www.npmjs.com/package/svg-gauge).
+This project is demo of svg-gauge npm package. Package URL: [svg-gauge](https://www.npmjs.com/package/svg-gauge).
 
 ## Available Scripts
 
