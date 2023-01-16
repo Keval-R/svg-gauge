@@ -6,6 +6,7 @@ This project is demo of svg-gauge npm package. Package URL: [svg-gauge](https://
 
 In the project directory, you can run:
 
+### `npm i`
 ### `npm start`
 
 Runs the app in the development mode.\
